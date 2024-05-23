@@ -5,7 +5,7 @@
   </a>
   </kbd>
 
-  <h2 align="center">Info STealer (Python)</h2>
+  <h2 align="center">Info Stealer (Python)</h2>
 
   <p align="center">
     This script is used to steal information from the computer such as HOSTNAME or others
